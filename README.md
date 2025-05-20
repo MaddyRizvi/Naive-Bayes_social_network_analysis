@@ -13,7 +13,7 @@ This Google Colab notebook demonstrates a implementation of the **Naive Bayes** 
 ### 1. Clone the Repository or Upload the Notebook
 
 ```bash
-git clone https://github.com/MaddyRizvi/social-network-naive-bayes.git
+git clone https://github.com/MaddyRizvi/Naive-Bayes_social_analysis.git
 ```
 
 Or simply upload the notebook to [Google Colab](https://colab.research.google.com/) and start running the cells.
@@ -43,7 +43,9 @@ The notebook includes the following steps:
 - Predicted output for a sample input: `[30, 87000]`
 - Confusion Matrix and Accuracy Score
 - Visualizations for both Training and Test sets
-
+- ![Image](https://github.com/user-attachments/assets/05f3f49d-178d-41c8-bd59-40bbaeb3f540)
+- ![Image](https://github.com/user-attachments/assets/0a6f9a68-00d2-4a41-ba97-fae21c72e480)
+  
 ## 🧠 Libraries Used
 
 - numpy
