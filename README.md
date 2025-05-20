@@ -1,6 +1,6 @@
 # Naive Bayes Classifier on Social Network Ads Dataset
 
-This Google Colab notebook demonstrates a implementation of the **Naive Bayes** classification algorithm using the Social Network Ads dataset. The dataset is used to predict whether a user purchases a product based on their age and estimated salary.
+This Google Colab notebook demonstrates an implementation of the Naive Bayes classification algorithm using the Social Network Ads dataset. The model predicts whether a user purchases a product based on their age and estimated salary. This project can be easily adapted to work with other datasets containing different or additional independent variables.
 
 ## 📊 Dataset Overview
 
